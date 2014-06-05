@@ -1,9 +1,10 @@
 jquery.filterChildren.js
 ========================
+Prepends an input field to an element, witch allows live-filtering of children by text.
 
 
-
-==Usage
+Usage
+----
 
 ```
 var defaults = {
